@@ -1,0 +1,15 @@
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\bin\Debug\net6.0\SingleInheritance2.exe
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\bin\Debug\net6.0\SingleInheritance2.deps.json
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\bin\Debug\net6.0\SingleInheritance2.runtimeconfig.json
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\bin\Debug\net6.0\SingleInheritance2.dll
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\bin\Debug\net6.0\SingleInheritance2.pdb
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.csproj.AssemblyReference.cache
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.AssemblyInfoInputs.cache
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.AssemblyInfo.cs
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.csproj.CoreCompileInputs.cache
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.dll
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\refint\SingleInheritance2.dll
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.pdb
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\SingleInheritance2.genruntimeconfig.cache
+D:\C#\Muthuselvi_Inheritance\SingleInheritance2\obj\Debug\net6.0\ref\SingleInheritance2.dll
